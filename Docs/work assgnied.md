@@ -39,7 +39,7 @@
 
 ---
 
-### **5. Sam: Communication & IoT**
+### **5. Samundeswari: Communication & IoT**
 - **Core Topics**:  
   - Communication Protocols: Learn MQTT and HTTP for IoT connectivity.  
   - IoT Device Integration: Integrate sensors and devices with cloud platforms.  
