@@ -47,5 +47,6 @@
   - GUI and Human-Robot Interaction: Develop intuitive interfaces for user interaction.  
 
 ---
+# **6. Tharun : Project manager, oversees everything and make sure to go all perfect **
 
 
